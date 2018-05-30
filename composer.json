@@ -1,0 +1,27 @@
+{
+    "name": "ak403602/phpunit-testing-kit",
+    "description": "Gives all the helper traits and classes that you will ever need to test a PHP application",
+    "type": "package",
+    "keywords":["testing","phpunit","testing kit","php testing"],
+    "require": {
+    },
+    "license": "OSL-1.0",
+    "authors": [
+        {
+            "name": "avinash kumar",
+            "email": "ak403602@gmail.com"
+        }
+    ],
+    "scripts": {
+        "test": "./vendor/phpunit/phpunit/phpunit --testdox"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.1"
+    },
+    "autoload": {
+       "psr-4": {
+          "TestingKit\\": "src",
+          "Tests\\":"tests"
+        }
+    }
+}
