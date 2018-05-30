@@ -3,7 +3,7 @@ Collection of useful traits and classes that can be handy while testing a PHP ap
 
 ## Installation by Composer
 
-	$ composer require phpunit/phpunit-testing-kit
+	$ composer require avinash403/phpunit-testing-kit
 
 ## Available Traits
 

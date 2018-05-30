@@ -1,5 +1,5 @@
 {
-    "name": "phpunit/phpunit-testing-kit",
+    "name": "avinash403/phpunit-testing-kit",
     "description": "Gives all the helper traits and classes that you will ever need to test a PHP application",
     "type": "package",
     "keywords":["testing","phpunit","testing kit","php testing"],
